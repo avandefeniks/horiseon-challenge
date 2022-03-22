@@ -1,4 +1,5 @@
-Project located at https://avandefeniks.github.io/horiseon-challenge/
+Project public page located at: https://avandefeniks.github.io/horiseon-challenge/
+Project files located at: https://github.com/avandefeniks/horiseon-challenge
 
 HTML Changes:
 Changed title from "Website" to Horiseon
