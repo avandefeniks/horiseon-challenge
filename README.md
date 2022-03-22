@@ -27,3 +27,5 @@ Added "alt" text for Online Reputation Management image
 Added "alt" text for Social Media Marketing imagepus
 
 CSS Changes
+Consolidated "Benefits" code
+Consolidated "Content" code 
