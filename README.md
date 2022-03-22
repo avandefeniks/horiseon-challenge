@@ -24,4 +24,6 @@ added "role" and "aria-label" to hero div. Found answer on WC3
 https://www.w3.org/WAI/GL/wiki/ARIATechnique_usingImgRole_with_aria-label_forCSS-backgroundImage
 Added "alt" text for Search Engine Optimization image
 Added "alt" text for Online Reputation Management image
-Added "alt" text for Social Media Marketing image
+Added "alt" text for Social Media Marketing imagepus
+
+CSS Changes
