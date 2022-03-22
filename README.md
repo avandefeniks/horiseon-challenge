@@ -1,7 +1,16 @@
+Project located at https://avandefeniks.github.io/horiseon-challenge/
+
 HTML Changes:
 Changed title from "Website" to Horiseon
 Added "id=search-engine-optimization" to Search Engine Optimization section so top navigation works as it should
 Made code more readable by breaking up lines of code that weren't word wrapped
+Removed "class" attribute from the following div tags:
+    Search Engine Optimization
+    Online Reputation Management 
+    Social Media Marketing
+    Lead Generation
+    Brand Awareness
+    Cost Management
 
 Comments:
 top navigation
@@ -29,3 +38,5 @@ Added "alt" text for Social Media Marketing imagepus
 CSS Changes
 Consolidated "Benefits" code
 Consolidated "Content" code 
+Comments added
+Consolidated code deliberately left in and commented out to show all of the changes to the css code
