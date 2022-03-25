@@ -1,5 +1,5 @@
 # Horisean Challenge
-![Landing Page](/assets/images/LandingPage.jpg)
+![Landing Page](/assets/images/LandingPage.jpg) 
 
 Project public page located at: https://avandefeniks.github.io/horiseon-challenge/ <br>
 Project files located at: https://github.com/avandefeniks/horiseon-challenge
@@ -36,7 +36,7 @@ Added a "title" attribute to hero div. Found answer in Stack Overflow<br>
 https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute <br>
 Added "role" and "aria-label" to hero div. Found answer on W3.org <br>
 https://www.w3.org/WAI/GL/wiki/ARIATechnique_usingImgRole_with_aria-label_forCSS-backgroundImage <br>
-![Aria and Title attributes](/assets/images/AriaTitle.jpg)
+![Aria and Title attributes](/assets/images/TitleAria.jpg) <br>
 Added "alt" text for Search Engine Optimization image <br>
 Added "alt" text for Online Reputation Management image <br>
 Added "alt" text for Social Media Marketing imagepus <br>
