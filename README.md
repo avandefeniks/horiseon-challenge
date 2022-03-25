@@ -4,16 +4,16 @@ Project public page located at: https://avandefeniks.github.io/horiseon-challeng
 Project files located at: https://github.com/avandefeniks/horiseon-challenge
 
 ## HTML Changes:
-Changed title from "Website" to Horiseon
-Added "id=search-engine-optimization" to Search Engine Optimization section so top navigation works as it should
-Made code more readable by breaking up lines of code that weren't word wrapped
-Removed "class" attribute from the following div tags:
-    -Search Engine Optimization
-    -Online Reputation Management 
-    -Social Media Marketing
-    -Lead Generation
-    -Brand Awareness
-    -Cost Management
+Changed title from "Website" to Horiseon <br>
+Added "id=search-engine-optimization" to Search Engine Optimization section so top navigation works as it should<br>
+Made code more readable by breaking up lines of code that weren't word wrapped<br>
+Removed "class" attribute from the following div tags:<br>
+    -Search Engine Optimization<br>
+    -Online Reputation Management <br>
+    -Social Media Marketing<br>
+    -Lead Generation<br>
+    -Brand Awareness<br>
+    -Cost Management<br>
 
 ## Comments:
 top navigation
